@@ -32,11 +32,11 @@ Publications
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 **2025**
-- *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. Arxiv, 2025. [[Code]](https://github.com/Vicent0205/SynLogic)
-- *On the Perception Bottleneck of VLMs for Chart Understanding*. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. Arxiv, 2025. [[Code]](https://github.com/Vicent0205/Vision4Chart)
+- *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. Arxiv, 2025. [[Code]](https://github.com/MiniMax-AI/SynLogic)
+- *On the Perception Bottleneck of VLMs for Chart Understanding*. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. Arxiv, 2025. [[Code]](https://github.com/hkust-nlp/Vision4Chart)
 
 **2024**
-- *On the Universal Truthfulness Hyperplane Inside LLMs*. **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. EMNLP 2024. [[Code]](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+- *On the Universal Truthfulness Hyperplane Inside LLMs*. **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. EMNLP 2024. [[Code]](https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane)
 - *In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation*. Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. ICML 2024.
 
 **2023**
