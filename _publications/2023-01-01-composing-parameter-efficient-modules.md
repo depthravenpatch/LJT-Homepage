@@ -6,6 +6,7 @@ permalink: /publication/2023-composing-parameter-efficient-modules
 excerpt: 'NeurIPS 2023. Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.'
 date: 2023-01-01
 venue: 'NeurIPS 2023'
-paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/6983a19c7c7f0c3a4f8e3b1a0e0b1f0a-Abstract-Conference.html'
+paperurl: 'https://arxiv.org/abs/2306.14870'
+codeurl: 'https://github.com/hkust-nlp/PEM_composition'
 citation: 'Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. (2023). &quot;Composing Parameter-Efficient Modules with Arithmetic Operations.&quot; <i>NeurIPS 2023</i>.'
 ---
